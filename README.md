@@ -1,2 +1,2 @@
-# Deep-Learning
-Deep Leaning with TensorFlow and Python
+# Deep Learning
+TensorFlow: Deep Leaning with Python
